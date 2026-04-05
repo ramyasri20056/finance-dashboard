@@ -85,4 +85,4 @@ Alternatively, you can test the production-ready build instantly without running
 👉 **[https://finance-dashboard-cyan-kappa.vercel.app](https://finance-dashboard-cyan-kappa.vercel.app)**
 
 ---
-*Developed for the Zorvyn Frontend Engineering Internship Assessment.*
+
