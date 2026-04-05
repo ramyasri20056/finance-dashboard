@@ -1,7 +1,5 @@
 # Finance Dashboard UI — Zorvyn Frontend Internship Assessment
 
-<!-- REPLACE THIS LINK WITH YOUR HERO DASHBOARD SCREENSHOT -->
-![Finance Dashboard Overview](./screenshot-hero.png)
 
 Welcome to the Finance Dashboard UI, developed as part of the frontend engineering internship assessment for Zorvyn. This project is a highly interactive, extremely polished financial tracking application built with modern React.
 
